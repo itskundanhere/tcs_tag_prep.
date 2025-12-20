@@ -40,7 +40,7 @@ int main()
         arr[index] = 0;
         index++; 
     }
-
+cout << "Array after pushing empty packets to the end: ";
     for(int i =0; i<N; i++)
     {
         cout<< arr[i]<<" ";

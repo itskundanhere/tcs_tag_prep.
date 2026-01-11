@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     int num;
-    cout<<"Enter the Binary number: ";
+    cout<<"Enter the Decimal number: ";
     cin>>num;
        
         int rem, ans = 0, mul = 1;
@@ -15,7 +15,7 @@ int main()
             mul = mul*10;
 
          }
-         cout<<"Decimal number is: "<<ans<<endl;
+         cout<<"Binary number is: "<<ans<<endl;
 
     
 

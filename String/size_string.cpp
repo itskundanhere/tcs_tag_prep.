@@ -6,7 +6,7 @@ int main()
     cout<<"Enter the sttring: ";;
     cin>>s;
 
-    int size;
+    int size =0 ;
 
     while(s[size]!= '\0')
     {

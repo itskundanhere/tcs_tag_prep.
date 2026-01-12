@@ -1,6 +1,6 @@
-//Given an integer array nums and an integer target, return all contiguous subarrays whose elements sum to target.
-// nums = [3, 4, -7, 1, 3, 3, 1, -4]
-// target = 7
+/*Given an integer array nums and an integer target, return all contiguous subarrays whose elements sum to target.
+nums = [3, 4, -7, 1, 3, 3, 1, -4]
+ target = 7  */
 #include <iostream>
 #include <vector>
 using namespace std;

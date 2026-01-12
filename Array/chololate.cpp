@@ -29,6 +29,9 @@ int main()
     for(int i =0; i<N; i++)
     {
         if (arr[i]!= 0)
+
+
+        
         {
             arr[index] = arr[i];
             index++;
